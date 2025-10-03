@@ -1,0 +1,5 @@
+client/
+├── package.json        (the one with react, react-dom, vite)
+├── vite.config.js
+├── index.html
+├── src/                (React components, etc.)
