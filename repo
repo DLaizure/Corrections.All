@@ -1,0 +1,14 @@
+Corrections.All/
+│
+├── render.yaml        ✅ at the top level (defines server + client)
+├── server/            ✅ backend
+│   ├── package.json
+│   ├── index.js
+│   ├── migrate.js
+│   └── db.js
+│
+├── client/            ✅ frontend
+│   ├── package.json
+│   ├── vite.config.js
+│   └── src/
+└── README.md
