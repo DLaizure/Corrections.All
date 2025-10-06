@@ -1,6 +1,0 @@
-server/
-├── package.json        ✅ (with express, pg, bcrypt, jwt, nodemailer)
-├── index.js            ✅ (main server entry point)
-├── db.js               ✅ (Postgres connection file)
-├── migrate.js          ✅ (script that creates database tables)
-├── .env.example        ✅ (example environment variables for DB, JWT, SMTP, etc.)
